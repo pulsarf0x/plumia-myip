@@ -10,7 +10,7 @@
     </head>
     <body class="bg-purple-700">
         <div class="container mx-auto">
-            <div class="rounded bg-purple-600 shadow-lg xs:w-11/12 sm:w-11/12 md:w-8/12 lg:w-4/12 xl:w-4/12 mt-6 mx-auto">
+            <div class="rounded bg-purple-600 shadow-lg xs:w-11/12 sm:w-11/12 md:w-8/12 lg:w-5/12 xl:w-5/12 mt-6 mx-auto">
                 <p class="text-center text-6xl text-white"><?= $ip ?></p>
             </div>
             <p class="text-center text-purple-800 mt-2">Copyright &copy; Plumia <?= date('Y') ?></p>
