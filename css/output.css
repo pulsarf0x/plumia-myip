@@ -72325,3 +72325,9 @@ video {
     transition-delay: 1000ms;
   }
 }
+
+/* Custom */
+input::selection {
+    color: none;
+    background: none;
+}
