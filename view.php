@@ -6,6 +6,7 @@
               content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Mon IP - Plumia</title>
+        <link rel="shortcut icon" type="image/jpg" href="https://plumia.net/images/favicon.png"/>
         <link rel="stylesheet" href="css/output.css" />
     </head>
     <body class="bg-purple-700">
